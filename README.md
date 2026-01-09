@@ -1,7 +1,7 @@
 Abastract: Adaptive radiations provide powerful models to study the origins of phenotypic novelty and species diversity. Darwin’s finches constitute a classic example of adaptive radiation, in which beak morphology is a key trait related to fitness. Here, we focused on Camarhynchus tree finches by analysing whole genomes in combination with morphological data to revisit long-standing questions regarding their origins raised before genetic evidence became available. Camarhynchus diversified recently, at least 100,000 Kya, yielding striking morphological differences despite shallow genetic divergence. We identified seven highly differentiated loci, including G03, a supergene affecting beak and body size. We reveal an unusual example of genomic mosaicism, in which autosomal differentiation between a large tree finch lineage and the small tree finch is restricted primarily to a single locus -(G03)- that approaches fixation. Contextualized in a broader phylogenetic framework, we reveal an unexpected diversity of G03 haplotypes, and show that the small and large G03 alleles diverged early in the radiation, suggesting a key genetic innovation enabling ecological expansion among species of Darwin’s finches. Our results establish Camarhynchus as a model example of speciation with gene flow, underscoring the broader role of hybridization in generating biodiversity.
 
 
-This repository contains all the scripts relative to _Camarhynchus_ tree finch study. Data is available on Figshare (10.6084/m9.figshare.30284983)
+This repository contains the scripts relative to the main analyses in the _Camarhynchus_ tree finch study. Data is available on Figshare (10.6084/m9.figshare.30284983)
 
 In this repository you find script for:
 
