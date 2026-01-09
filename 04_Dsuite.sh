@@ -18,7 +18,7 @@ mkdir "$CHR"
 cd ./"$CHR"
 
 ## affinis, parvulus, habeli
-Dsuite Dinvestigate -w 200,100 ../../finches_highcov_463_"$CHR"_QF_IDrenamed_setGT_snps_biall_maxmiss075_maf003_DP2_100_LoxiAA.recode.vcf.gz ../../../loxi_parvulus_affinis_habeli_G03.pop.txt ../../loxi_parvulus_affinis_habeli_trios.txt
+Dsuite Dinvestigate -w 200,100 finches_highcov_463_"$CHR"_QF_IDrenamed_setGT_snps_biall_maxmiss075_maf003_DP2_100_LoxiAA.recode.vcf.gz loxi_parvulus_affinis_habeli_G03.pop.txt loxi_parvulus_affinis_habeli_trios.txt
 
 
 
