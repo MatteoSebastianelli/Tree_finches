@@ -6,3 +6,5 @@ This repository contains all the scripts relative to _Camarhynchus_ tree finch s
 In this repository you find script for:
 
 1. Infer ancestral recombination graphs using tsinfer and compute pairwise Fst from its output
+
+2. Perform Normal Mixture Models (NMMs) analysis on morphological measurements from museum specimens
