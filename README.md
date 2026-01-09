@@ -8,3 +8,5 @@ In this repository you find script for:
 1. Infer ancestral recombination graphs using tsinfer and compute pairwise Fst from its output
 
 2. Perform Normal Mixture Models (NMMs) analysis on all morphological measurements from museum specimens
+
+3. Calculate dxy and nucleodide diversity
