@@ -8,10 +8,7 @@
 #SBATCH --mail-type=all
 #SBATCH --mail-user=matteo.sebastianelli@imbim.uu.se
 
-
 ml bcftools pixy
-
-cd $wd
 
 TREE_FINCH_POP_FILE=/crex/proj/snic2020-2-19/private/darwins_finches/users/seba/finches463/pixy/tree_finches/tree_finches_pops.txt
 
