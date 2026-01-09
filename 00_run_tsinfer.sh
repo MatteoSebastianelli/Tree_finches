@@ -1,4 +1,4 @@
-# Run tsinfer script
+# Run tsinfer script - using chr28 as example
 python AllFinches_tsinfer.py -i camarhynchus_chr28_maxmiss075_maf003_DP2_100_IDrenamed_phased_LoxiAA.recode -o ./output_folder/camarhynchus_chr28.trees -aa finches_chr28_loxigilla_AA.txt
 
 # Example of AA.txt file
